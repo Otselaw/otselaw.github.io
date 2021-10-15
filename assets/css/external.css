@@ -1,9 +1,9 @@
 /* The alert message box */
-.alert {
+.topbar {
   padding: 5px;
   background-color: #FFF; /* Red */
   color: black;
-  margin-bottom: 15px;
+  margin-bottom: 1px;
 }
 
 /* The close button */
