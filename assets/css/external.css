@@ -1,3 +1,29 @@
+/* The alert message box */
+.alert {
+  padding: 5px;
+  background-color: #FFF; /* Red */
+  color: black;
+  margin-bottom: 15px;
+}
+
+/* The close button */
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* When moving the mouse over the close button */
+.closebtn:hover {
+  color: black;
+}
+
+
 /* Magnific Popup CSS */
 .mfp-bg {
   top: 0;
@@ -1854,6 +1880,23 @@ Copyright (c) 2015 Daniel Eden
   font-variant: normal;
   text-transform: none;
   line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bar {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'legal-Icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  background-color: #d8ae76;
+
 
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;

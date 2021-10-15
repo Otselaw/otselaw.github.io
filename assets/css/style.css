@@ -91,10 +91,11 @@ html {
 }
 html {
   font-size: 13px;
+  font-family: "Times New Roman", Times, serif;
 }
 body {
   background-color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 13px;
   font-weight: 400;
   color: #999999;
@@ -182,7 +183,7 @@ h4,
 h5,
 h6 {
   color: #363636;
-  font-family: 'Merriweather', serif;
+  font-family: "Times New Roman", Times, serif;
   font-weight: 700;
   margin: 0 0 28px;
   line-height: 1;
@@ -282,10 +283,10 @@ p {
   text-transform: uppercase !important;
 }
 .font-heading {
-  font-family: 'Merriweather', serif;
+  font-family: "Times New Roman", Times, serif;
 }
 .font-body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Times New Roman", Times, serif;
 }
 .font-18 {
   font-size: 24px;
@@ -1113,7 +1114,7 @@ section {
     #BUTTONS
 \*------------------------------------*/
 .btn {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Times New Roman", Times, serif;
   position: relative;
   z-index: 2;
   font-size: 14px;
@@ -1262,7 +1263,7 @@ section {
 \*------------------------------------*/
 .form-control {
   color: #999999;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 45px;
@@ -1461,7 +1462,7 @@ section {
   margin-left: -25px;
 }
 .heading .heading--desc {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 28px;
@@ -1998,7 +1999,7 @@ section {
 }
 .slider .slide--bio {
   color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 22px;
   font-weight: 400;
   line-height: 34px;
@@ -2115,7 +2116,7 @@ section {
   margin-bottom: 0;
 }
 .testimonial-panel .testimonial--meta h4 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 14px;
   font-weight: 700;
   line-height: 1;
@@ -2217,7 +2218,7 @@ section {
   text-align: center;
   border-radius: 50%;
   color: #d8ae76;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 24px;
   border: 2px solid #d8ae76;
   -webkit-transition: all .2s linear;
@@ -2238,7 +2239,7 @@ section {
   font-weight: 400;
   line-height: 30px;
   margin-bottom: 20px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Times New Roman", Times, serif;
 }
 .about .signture {
   margin-top: 20px;
@@ -2295,7 +2296,7 @@ section {
 }
 .pricing-panel .pricing--heading h4 {
   color: #d8ae76;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 33px;
   font-weight: 400;
   line-height: 1;
@@ -2431,7 +2432,7 @@ section {
   font-weight: 400;
   line-height: 26px;
   color: #bdbdbd;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Times New Roman", Times, serif;
   padding-left: 30px;
   position: relative;
   margin-bottom: 30px;
@@ -2447,7 +2448,7 @@ section {
   background-color: #272727;
   padding: 33px 0;
   color: #888888;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 1;
@@ -2906,7 +2907,7 @@ section {
   color: #363636;
   font-size: 36px;
   font-weight: 700;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Times New Roman", Times, serif;
   line-height: 1;
   margin-bottom: 12px;
   position: relative;
@@ -3011,7 +3012,7 @@ section {
 }
 .member .member-info h5 {
   color: #363636;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 24px;
   font-weight: 700;
   line-height: 1;
@@ -3142,7 +3143,7 @@ section {
 }
 .blog-entry .entry--title h4 {
   color: #363636;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 18px;
   font-weight: 600;
   line-height: 23px;
